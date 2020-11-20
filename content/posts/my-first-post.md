@@ -1,10 +1,9 @@
 ---
-title: "My First Post"
+title: "The use of digital methods for analysing folk legends about immured"
 date: 2020-11-20T15:01:09+02:00
 draft: true
 ---
 
-###The use of digital methods for analysing folk legends about immured
 
 Digital humanities is an interdisciplinary area of scholarly activity where digital
 technologies and humanities are combined. The use of computational methods for research
