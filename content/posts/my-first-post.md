@@ -1,5 +1,5 @@
 ---
-title: "The use of digital methods for analysing folk legends about immured"
+title: "Latvian Folk Legends About Building Sacrifices"
 date: 2020-11-20T15:01:09+02:00
 draft: true
 ---
