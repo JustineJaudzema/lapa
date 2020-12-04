@@ -3,23 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://justinejaudzema.github.io/lapa/posts/directories/</loc>
-    <lastmod>2020-11-20T16:04:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://justinejaudzema.github.io/lapa/posts/</loc>
-    <lastmod>2020-11-20T16:04:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://justinejaudzema.github.io/lapa/</loc>
-    <lastmod>2020-11-20T16:04:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://justinejaudzema.github.io/lapa/posts/my-first-post/</loc>
-    <lastmod>2020-11-20T15:01:09+02:00</lastmod>
+    <loc>https://justinejaudzema.github.io/lapa/posts/my-secound-post/</loc>
   </url>
   
   <url>
@@ -27,7 +11,15 @@
   </url>
   
   <url>
+    <loc>https://justinejaudzema.github.io/lapa/posts/</loc>
+  </url>
+  
+  <url>
     <loc>https://justinejaudzema.github.io/lapa/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://justinejaudzema.github.io/lapa/</loc>
   </url>
   
 </urlset>
